@@ -1,0 +1,14 @@
+conda create --name flmod
+conda install pip
+pip install flask
+pip freeze requirements.txt
+mkdir app
+mkdir templates
+mkdir static
+nano run.py
+nano config.py
+.
+.
+.
+sudo apt install tree
+tree
